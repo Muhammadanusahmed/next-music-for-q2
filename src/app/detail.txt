@@ -1,0 +1,3 @@
+//  darkMode: "class", 
+// zrori nhi ke humee css me dhusna hoga kisi elements ki coloring change karne ke liey  library walu ne sath hi 
+// darkmode bhi diya hota ha isse use karne ke liey hum tailwind.config.ts me ja kar (theme) ke upar isse rakhte ha
